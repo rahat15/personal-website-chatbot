@@ -1,4 +1,4 @@
-✅ Total Chunks Created: 30
+✅ Total Chunks Created: 12
 
 --- Chunk #1 ---
 ## About Me
@@ -47,8 +47,7 @@ Tools and Platforms Used: Jupyter, GitHub, ROS, OpenCV, Google Colab, TensorFlow
 --- Chunk #3 ---
 ## Experience
 
---- Chunk #4 ---
-### Software Developer Intern (Research) – AgAID @ Washington State University (WSU)
+1. Software Developer Intern (Research) – AgAID @ Washington State University (WSU)
 
 Duration: Jun 2024 – Sep 2024
 
@@ -83,8 +82,8 @@ Transitioned from Raspberry Pi to STM32 to reduce power consumption and form fac
 
 Enabled early detection of heat-stress indicators, supporting better crop yield and resource utilization.
 
---- Chunk #5 ---
-### Machine Learning Intern – Indian Institute of Technology Ropar (AWaDH Project)
+
+2. Machine Learning Intern – Indian Institute of Technology Ropar (AWaDH Project)
 
 Duration: July 2023 – January 2024
 
@@ -97,12 +96,21 @@ Optimized the model for deployment in outdoor field conditions, addressing chall
 
 Integrated the detection system with a real-time video processing pipeline to enable continuous monitoring of pollinator activity across experimental plots.
 
+Took the lead in organizing
+
+--- Chunk #4 ---
+flight patterns and flower interactions.
+
+Optimized the model for deployment in outdoor field conditions, addressing challenges such as variable lighting, camera shake, and occlusions caused by dense vegetation.
+
+Integrated the detection system with a real-time video processing pipeline to enable continuous monitoring of pollinator activity across experimental plots.
+
 Took the lead in organizing weekly sprint meetings, managing dataset versioning, and maintaining reproducible training pipelines using PyTorch and Roboflow.
 
 Authored detailed technical documentation and contributed to the initial draft of a research paper outlining methodology and field performance metrics.
 
---- Chunk #6 ---
-### Student Intern – Terafac Technologies Pvt. Ltd.
+
+3. Student Intern – Terafac Technologies Pvt. Ltd.
 
  Duration: June 2023 – July 2023
 
@@ -119,11 +127,11 @@ Contributed to the design of an HMI (Human-Machine Interface) for monitoring sys
 
 Gained hands-on experience with industrial-grade hardware and automation frameworks, deepening understanding of mechatronics, control systems, and cyber-physical system integration.
 
---- Chunk #7 ---
+--- Chunk #5 ---
 ## Projects
 
---- Chunk #8 ---
-### 1. AI and Vision-Based Crop Disease and Weed Detection System
+
+1. AI and Vision-Based Crop Disease and Weed Detection System
 
 
 Type: Senior Capstone Project
@@ -142,8 +150,8 @@ Integrated vector store for indexing and retrieving contextually relevant agricu
 
 Designed the entire system to be farmer-friendly, scalable, and accessible via any modern browser—laying the foundation for deployment in rural regions with minimal training requirements.
 
---- Chunk #9 ---
-### 2. FarmFriend Chatbot
+
+2. FarmFriend Chatbot
 
 
 
@@ -168,8 +176,21 @@ Presented the project at the EWU Symposium 2024, showcasing its usability, real-
 Published the project findings in an IEEE peer-reviewed conference paper titled:
 “Development and Evaluation of a Smart Agricultural Chatbot”, co-authored with Dr. Sanmeet Kaur at IEEE UEMCON 2024, held at IBM Watson Centre, NY, USA.
 
---- Chunk #10 ---
-### 3. SmartBot – Autonomous Navigation Vehicle
+
+3. SmartBot – Autonomous Navigation Vehicle
+
+
+Type: Ongoing Research Grant Project
+Timeline: 2024
+
+
+Designed and built SmartBot, an
+
+--- Chunk #6 ---
+a Smart Agricultural Chatbot”, co-authored with Dr. Sanmeet Kaur at IEEE UEMCON 2024, held at IBM Watson Centre, NY, USA.
+
+
+3. SmartBot – Autonomous Navigation Vehicle
 
 
 Type: Ongoing Research Grant Project
@@ -190,8 +211,7 @@ Designed the system to be modular and extensible, allowing future integration of
 
 Showcased the initial prototype and live demonstrations at the EWU Symposium 2024, highlighting its potential in smart transportation, precision agriculture, and robotics education.
 
---- Chunk #11 ---
-### 4. IoT Penetration Testing and ML-Based Defense System
+4. IoT Penetration Testing and ML-Based Defense System
 
 
 Type: Directed Study Project & Published Research
@@ -213,11 +233,12 @@ The outcomes of this project were peer-reviewed and presented at an IEEE confere
 
 The research contributes to the growing body of knowledge on secure, scalable, and intelligent defense strategies for next-generation IoT systems.
 
---- Chunk #12 ---
+--- Chunk #7 ---
 ## Leadership Roles
 
---- Chunk #13 ---
-### 1. President – ACM Student Chapter, Eastern Washington University
+
+
+1. President – ACM Student Chapter, Eastern Washington University
 
 
 Duration: Fall 2023 – Winter 2025
@@ -231,8 +252,8 @@ Designed and led technical workshops focused on Machine Learning and Advanced Pr
 
 Created structured mentorship opportunities for underclassmen interested in AI, data science, and competitive coding.
 
---- Chunk #14 ---
-### 2. Lead – Google Developer Group (GDG On Campus), EWU
+
+2. Lead – Google Developer Group (GDG On Campus), EWU
 
 
 Duration: Fall 2024 – Winter 2025
@@ -246,11 +267,12 @@ Mentored multiple student teams for hackathons and guided the development of Gen
 
 Fostered a collaborative, research-driven environment and established lasting partnerships with faculty and external tech communities.
 
---- Chunk #15 ---
+--- Chunk #8 ---
 ## Skills
 
---- Chunk #16 ---
-### Programming Languages
+
+
+Programming Languages
 
 Proficient: Python, Java, C
 
@@ -258,8 +280,8 @@ Experienced: R, C#, SQL
 
 Frameworks/Platforms: .NET, Jupyter, Google Colab
 
---- Chunk #17 ---
-### Machine Learning & AI
+
+Machine Learning & AI
 
 Foundational Models & APIs: LangChain, CLIP, RAG, OpenAI (GPT-based APIs)
 
@@ -269,8 +291,8 @@ Deep Learning Libraries: TensorFlow, PyTorch
 
 Data Science Tools: NumPy, Pandas, Scikit-learn, Matplotlib
 
---- Chunk #18 ---
-### Robotics & Embedded Systems
+
+Robotics & Embedded Systems
 
 Robot Middleware: ROS (Robot Operating System), Rviz, Gazebo
 
@@ -280,8 +302,8 @@ Edge Devices: Jetson Nano, STM32, Arduino, OpenMV
 
 Sensors/Modules: FLIR thermal camera, ultrasonic sensors
 
---- Chunk #19 ---
-### Web, Cloud & Full Stack Development
+
+Web, Cloud & Full Stack Development
 
 Frontend: React.js, HTML5, CSS3, TailwindCSS
 
@@ -295,8 +317,8 @@ RAG Systems & Vector Stores: ChromaDB
 
 Tools: Git, GitHub, Streamlit, Postman, Google Cloud
 
---- Chunk #20 ---
-### Cybersecurity
+
+Cybersecurity
 
 
 Domains: IoT Security, Network Security
@@ -305,11 +327,11 @@ Domains: IoT Security, Network Security
 
 Tools: SDR (Software Defined Radio), protocol analyzers
 
---- Chunk #21 ---
+--- Chunk #9 ---
 ## Publications
 
---- Chunk #22 ---
-### 1. Enhancing IoT Security through Advanced Machine Learning Models for Anomaly Detection
+
+1. Enhancing IoT Security through Advanced Machine Learning Models for Anomaly Detection
 
 Rahat Bhatia, Sanmeet Kaur, Breanna Lang
 
@@ -317,8 +339,7 @@ Accepted at ICICT 2025
 
 Abstract: The rapid proliferation of the Internet of Things (IoT) has brought unprecedented connectivity, transforming industries and daily life. However, this integration comes with critical cybersecurity challenges, exposing IoT networks to sophisticated threats like Distributed Denial-of-Service (DDoS) attacks and other malicious activities. This paper investigates IoT vulnerabilities by analyzing the CICIoT2023 dataset and employing advanced machine learning techniques, specifically Random Forest and XGBoost, to detect and mitigate anomalies in network traffic. Through rigorous preprocessing, feature selection, and model tuning, both algorithms demonstrated exceptional performance, achieving accuracy and F1 scores exceeding 99%. XGBoost outperformed Random Forest in key metrics, showcasing its scalability and precision for complex datasets, while Random Forest proved advantageous for resource-constrained environments due to its simplicity and interpretability. This research not only highlights the strengths of machine learning in IoT security but also provides actionable insights for real-time anomaly detection and adaptive defenses. Future work aims to enhance these models for real-world deployment, adaptive learning, and broader applicability across diverse IoT ecosystems, ensuring a secure and resilient interconnected landscape.
 
---- Chunk #23 ---
-### 2. Development and Evaluation of a Smart Agricultural Chatbot
+2. Development and Evaluation of a Smart Agricultural Chatbot
 
 Rahat Bhatia, Dr. Sanmeet Kaur
 
@@ -326,35 +347,34 @@ Published in IEEE UEMCON 2024
 
 Abstract: This research presents the development and evaluation of a farmer focused chatbot that provides real-time assistance by leveraging data from various agricultural research institutions. Using natural language processing (NLP), similarity search, and Maximum Marginal Relevance (MMR), the chatbot delivers accurate and diverse responses. Evaluation metrics, including response accuracy, speed, user satisfaction, and query resolution, highlight its effectiveness. A case study with 50 farmers revealed significant improvements in decision-making and productivity, showcasing the chatbot’s potential to enhance agricultural practices through technology.
 
---- Chunk #24 ---
-### 3. Too Far, Yet Too Close – Poetry Collection
+3. Too Far, Yet Too Close – Poetry Collection
 
 Rahat Bhatia | Published: 2023
 
 A personal poetry collection reflecting on themes of emotion, identity, and introspection.
 Available at https://www.amazon.com/Too-Far-Yet-Close/dp/B0CF64SGYG
 
---- Chunk #25 ---
+--- Chunk #10 ---
 ## Awards and Grants
 
---- Chunk #26 ---
-### 1. CSTEM Undergraduate Research Fund
+
+1. CSTEM Undergraduate Research Fund
 
 $1,100 for SmartBot development (Sept 2023)
 
 Travel and research fund for IEEE UEMCON 2024 presentation
 
---- Chunk #27 ---
-### 2. Provost’s Travel Grant
+
+2. Provost’s Travel Grant
 
 Sponsored travel to IEEE UEMCON 2024
 
---- Chunk #28 ---
-### 3. Dean’s List
+
+3. Dean’s List
 
 Every quarter from Fall 2022 through Winter 2025
 
---- Chunk #29 ---
+--- Chunk #11 ---
 ## Competition Awards:
 
 1st place – Gonzaga Hackathon 2024
@@ -363,7 +383,7 @@ Every quarter from Fall 2022 through Winter 2025
 
 4th – Spokane Cyber Cup (National Cyber League)
 
---- Chunk #30 ---
+--- Chunk #12 ---
 ## Certifications and Trainings
 
 
