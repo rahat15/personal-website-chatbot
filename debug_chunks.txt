@@ -1,0 +1,379 @@
+✅ Total Chunks Created: 30
+
+--- Chunk #1 ---
+## About Me
+
+
+Rahat Bhatia is a Computer Science graduate from Eastern Washington University (Class of March 2025), originally from Patiala, Punjab, India. He is deeply passionate about Artificial Intelligence, Machine Learning, Robotics, and Cybersecurity, with a drive to apply technology for meaningful social impact. Rahat’s journey in computing reflects a commitment to solving real-world challenges through interdisciplinary approaches, particularly in agriculture, smart automation, and secure systems.
+
+His hands-on experience includes building multilingual AI chatbots for farmers, CLIP-based crop disease detection systems, autonomous robots for smart navigation, and machine learning-based defense frameworks for IoT security. These efforts have led to peer-reviewed publications at IEEE conferences and multiple competitive grants.
+
+In addition to his technical pursuits, Rahat served as the President of the ACM Student Chapter and Lead for Google Developer Group (GDG On Campus), where he organized hackathons like CodeFest 2024, and Build With AI: CodeQuest 2025 and conducted hands-on workshops on Generative AI, Machine Learning, Deep Learning and Advanced Programming Examination (APE). He has mentored student teams, led community-centered events, and actively promoted open-source contributions and research involvement.
+
+Outside the academic and tech world, Rahat is an avid poet, cricket enthusiast, and home chef. He published a poetry collection titled "Too Far, Yet Too Close" in 2023, revealing his introspective and expressive side. Rahat comes from an academically driven family—both of his parents are professors—and he has one younger brother. He values deep conversations, creative storytelling, and sharing food and ideas with others.
+
+Rahat has actively contributed to the STEM community through volunteer service as a judge at various academic and innovation-based events. He has volunteered as a judge at the WSU Science and Engineering Fair, where he evaluated student research projects across multiple disciplines. He also participated as a judge for FIRST Robotics competitions, promoting creativity and teamwork among high school students in robotics and automation. Additionally, he supported MESA (Mathematics, Engineering, Science Achievement) events by mentoring and assessing projects aimed at empowering underrepresented students in STEM fields. These experiences reflect Rahat’s commitment to education, mentorship, and fostering the next generation of innovators.
+
+Rahat believes that technology is a powerful tool not only for innovation, but also for fostering compassion, accessibility, and lifelong learning across communities.
+
+--- Chunk #2 ---
+## Education
+
+
+Degree: Bachelor of Science in Computer Science
+Institution: Eastern Washington University, Cheney, WA
+Duration: September 2022 (Fall) – March 2025 (Winter)
+GPA: 3.8 / 4.0
+Honors: Dean’s List every quarter throughout the degree program
+
+Relevant Courses:
+
+Machine Learning, Deep Learning, and AI
+
+Software Engineering Principles and Design
+
+Secure Coding and Applied Cryptography
+
+Network Security and Reverse Engineering
+
+Computer Vision and Robotics
+
+Database Management Systems and Advanced SQL
+
+Algorithms and Data Structures
+
+Tools and Platforms Used: Jupyter, GitHub, ROS, OpenCV, Google Colab, TensorFlow, Jetson Nano, STM32, OpenMV, Arduino
+
+--- Chunk #3 ---
+## Experience
+
+--- Chunk #4 ---
+### Software Developer Intern (Research) – AgAID @ Washington State University (WSU)
+
+Duration: Jun 2024 – Sep 2024
+
+Adaptive Path Planning for Warthog Robot
+
+
+Designed an intelligent path planning system for autonomous navigation in agricultural environments, such as orchards and vineyard lanes.
+
+Used ROS (Robot Operating System) as the core middleware to integrate various sensor data and control logic.
+
+Employed SLAM (Simultaneous Localization and Mapping) and AMCL (Adaptive Monte Carlo Localization) techniques to enable real-time robot localization and accurate path estimation in GPS-denied environments.
+
+Implemented LiDAR-based line following, allowing the robot to adaptively steer through narrow rows while accounting for obstacles and terrain variation.
+
+Tuned the navigation stack to ensure high-precision maneuverability even in complex orchard topographies.
+
+Evaluated performance using simulations in Gazebo and Rviz before deployment, ensuring robust outcomes and low error rates in real-world test cases.
+
+
+Low Power Thermal-RGB Imagery System
+
+
+Designed a cost-efficient embedded vision system to monitor grapevine heat stress, aiming to optimize irrigation and crop management.
+
+Utilized an STM32 microcontroller for low-power control, paired with OpenMV cameras to capture both thermal and RGB imagery.
+
+Incorporated a FLIR Lepton module to record surface temperature differentials on grape berry clusters.
+
+Ported CNN models trained for heat stress prediction to TensorFlow Lite, enabling efficient edge inference without needing cloud processing.
+
+Transitioned from Raspberry Pi to STM32 to reduce power consumption and form factor while maintaining processing accuracy.
+
+Enabled early detection of heat-stress indicators, supporting better crop yield and resource utilization.
+
+--- Chunk #5 ---
+### Machine Learning Intern – Indian Institute of Technology Ropar (AWaDH Project)
+
+Duration: July 2023 – January 2024
+
+
+Designed and implemented a real-time computer vision system for tracking bumblebees in sunflower fields, aimed at improving pollination efficiency and supporting smart agriculture initiatives under the Agriculture and Water Technology Development Hub (AWaDH) project at IIT Ropar
+
+Developed a high-accuracy detection model using YOLOv8 architecture, trained on a custom-labeled dataset of bumblebee flight patterns and flower interactions.
+
+Optimized the model for deployment in outdoor field conditions, addressing challenges such as variable lighting, camera shake, and occlusions caused by dense vegetation.
+
+Integrated the detection system with a real-time video processing pipeline to enable continuous monitoring of pollinator activity across experimental plots.
+
+Took the lead in organizing weekly sprint meetings, managing dataset versioning, and maintaining reproducible training pipelines using PyTorch and Roboflow.
+
+Authored detailed technical documentation and contributed to the initial draft of a research paper outlining methodology and field performance metrics.
+
+--- Chunk #6 ---
+### Student Intern – Terafac Technologies Pvt. Ltd.
+
+ Duration: June 2023 – July 2023
+
+
+Developed and tested Ladder Logic programs to control the operations of a robotic arm prototype designed for automated package sorting in a simulated warehouse environment.
+
+Configured Programmable Logic Controllers (PLCs) to perform real-time decision-making tasks such as item detection, arm actuation, and conveyor belt coordination.
+
+Worked closely with senior automation engineers to troubleshoot signal errors, tune control logic parameters, and validate system safety protocols.
+
+Integrated IoT sensors to enable real-time feedback from the robotic arm, including positional accuracy, motor health, and environmental metrics such as temperature and load weight.
+
+Contributed to the design of an HMI (Human-Machine Interface) for monitoring system status and initiating manual overrides in case of faults.
+
+Gained hands-on experience with industrial-grade hardware and automation frameworks, deepening understanding of mechatronics, control systems, and cyber-physical system integration.
+
+--- Chunk #7 ---
+## Projects
+
+--- Chunk #8 ---
+### 1. AI and Vision-Based Crop Disease and Weed Detection System
+
+
+Type: Senior Capstone Project
+Timeline: 2025
+
+
+Designed and developed a multilingual, web-based AI system for supporting farmers in identifying crop diseases and weeds using both image and text inputs.
+
+Implemented a CLIP-based vision-language model to handle zero-shot classification of plant health conditions, enabling the system to detect diseases and weeds from user-uploaded images without the need for extensive labeled datasets.
+
+Compared the accuracy, adaptability, and inference speed of CLIP against traditional models like YOLOv5 and Faster R-CNN, concluding that CLIP offers superior flexibility in low-resource or multilingual settings.
+
+Built a Retrieval-Augmented Generation (RAG) chatbot using LangChain and Llama APIs that processes both visual and textual queries from users, such as uploading a leaf image or asking, “Why are my tomato leaves curling?”
+
+Integrated vector store for indexing and retrieving contextually relevant agricultural information across multiple languages.
+
+Designed the entire system to be farmer-friendly, scalable, and accessible via any modern browser—laying the foundation for deployment in rural regions with minimal training requirements.
+
+--- Chunk #9 ---
+### 2. FarmFriend Chatbot
+
+
+
+Type: Faculty-Mentored Research Project and Published Research
+
+
+Timeline: 2024
+
+
+Developed FarmFriend, a multilingual agricultural chatbot designed to assist farmers by answering queries related to crop health, irrigation, pest control, and agricultural policies.
+
+Built the system using LangChain for RAG-based pipeline construction, ChromaDB as the vector store for efficient semantic search, and OpenAI APIs for generating accurate, user-friendly responses.
+
+Enabled support for queries in multiple languages, allowing farmers from diverse linguistic backgrounds to engage with the platform using natural speech or typed questions in their native language.
+
+Designed the chatbot to handle both structured and unstructured questions in multiple languages
+
+Incorporated domain-specific documents and agronomic resources into the vector database to ensure reliable and context-aware responses.
+
+Presented the project at the EWU Symposium 2024, showcasing its usability, real-time accuracy, and potential for scalable deployment in farming communities.
+
+Published the project findings in an IEEE peer-reviewed conference paper titled:
+“Development and Evaluation of a Smart Agricultural Chatbot”, co-authored with Dr. Sanmeet Kaur at IEEE UEMCON 2024, held at IBM Watson Centre, NY, USA.
+
+--- Chunk #10 ---
+### 3. SmartBot – Autonomous Navigation Vehicle
+
+
+Type: Ongoing Research Grant Project
+Timeline: 2024
+
+
+Designed and built SmartBot, an autonomous ground vehicle aimed at demonstrating intelligent navigation and real-time decision-making in dynamic environments.
+
+Utilized the NVIDIA Jetson Nano as the onboard computing platform, integrating it with ROS (Robot Operating System) for real-time message passing and system coordination.
+
+Implemented computer vision modules using OpenCV to perform lane detection, object tracking, and semantic segmentation of the environment.
+
+Developed and tuned path planning and obstacle avoidance algorithms, enabling the robot to navigate safely through indoor and outdoor spaces without human intervention.
+
+Integrated LiDAR and ultrasonic sensors for collision prevention, enhancing spatial awareness and responsiveness to environmental changes.
+
+Designed the system to be modular and extensible, allowing future integration of reinforcement learning-based decision logic or swarm robotics protocols.
+
+Showcased the initial prototype and live demonstrations at the EWU Symposium 2024, highlighting its potential in smart transportation, precision agriculture, and robotics education.
+
+--- Chunk #11 ---
+### 4. IoT Penetration Testing and ML-Based Defense System
+
+
+Type: Directed Study Project & Published Research
+Timeline: 2023
+
+
+Designed and executed an end-to-end study of IoT security vulnerabilities through real-world penetration testing using Software Defined Radio (SDR), Bluetooth, ZigBee, and FAT file system attacks.
+
+Simulated adversarial scenarios such as protocol spoofing, unauthorized access, and data leakage to evaluate resilience of consumer-grade IoT setups.
+
+Collected high-quality datasets during attack phases and developed machine learning-based anomaly detection models, including XGBoost, Auto-encoders, and Generative Adversarial Networks (GANs).
+
+Focused on edge-friendly, lightweight models suitable for real-time intrusion detection in bandwidth-constrained environments.
+
+Benchmarked the models using ROC-AUC, F1, and recall scores, showing robust performance even under zero-day attack conditions.
+
+The outcomes of this project were peer-reviewed and presented at an IEEE conference, resulting in the publication of the paper titled:
+“Enhancing IoT Security through Advanced Machine Learning Models for Anomaly Detection”, at ICICT 2025 held at University of Hawaii, USA.
+
+The research contributes to the growing body of knowledge on secure, scalable, and intelligent defense strategies for next-generation IoT systems.
+
+--- Chunk #12 ---
+## Leadership Roles
+
+--- Chunk #13 ---
+### 1. President – ACM Student Chapter, Eastern Washington University
+
+
+Duration: Fall 2023 – Winter 2025
+
+
+Spearheaded the growth and engagement of the ACM chapter, transforming it into a thriving student tech community with regular events and interdisciplinary collaborations.
+
+Organized CodeFest 2024, EWU’s first major hackathon, attracting 50+ participants and industry mentors for a full-day event on applied AI, software innovation, and open-source collaboration.
+
+Designed and led technical workshops focused on Machine Learning and Advanced Programming Exam (APE) preparation, helping peers succeed in academic and competitive settings.
+
+Created structured mentorship opportunities for underclassmen interested in AI, data science, and competitive coding.
+
+--- Chunk #14 ---
+### 2. Lead – Google Developer Group (GDG On Campus), EWU
+
+
+Duration: Fall 2024 – Winter 2025
+
+
+Appointed as founding lead for EWU’s GDSC chapter, building the club from the ground up and aligning it with Google’s developer education initiatives.
+
+Conducted hands-on workshops and demo sessions on Generative AI, LangChain, and Google Cloud tools to introduce students to real-world applications of cutting-edge technologies.
+
+Mentored multiple student teams for hackathons and guided the development of GenAI-based capstone projects, including those focused on RAG, chatbot design, and LLM integration.
+
+Fostered a collaborative, research-driven environment and established lasting partnerships with faculty and external tech communities.
+
+--- Chunk #15 ---
+## Skills
+
+--- Chunk #16 ---
+### Programming Languages
+
+Proficient: Python, Java, C
+
+Experienced: R, C#, SQL
+
+Frameworks/Platforms: .NET, Jupyter, Google Colab
+
+--- Chunk #17 ---
+### Machine Learning & AI
+
+Foundational Models & APIs: LangChain, CLIP, RAG, OpenAI (GPT-based APIs)
+
+Model Development: YOLOv8, XGBoost, Auto-encoders, GANs
+
+Deep Learning Libraries: TensorFlow, PyTorch
+
+Data Science Tools: NumPy, Pandas, Scikit-learn, Matplotlib
+
+--- Chunk #18 ---
+### Robotics & Embedded Systems
+
+Robot Middleware: ROS (Robot Operating System), Rviz, Gazebo
+
+Navigation & Mapping: SLAM, AMCL, LiDAR integration
+
+Edge Devices: Jetson Nano, STM32, Arduino, OpenMV
+
+Sensors/Modules: FLIR thermal camera, ultrasonic sensors
+
+--- Chunk #19 ---
+### Web, Cloud & Full Stack Development
+
+Frontend: React.js, HTML5, CSS3, TailwindCSS
+
+Backend: Node.js, Express.js
+
+ Databases: MongoDB, Firebase, SQL-based systems
+
+APIs & Integration: RESTful APIs, LangChain + OpenAI integrations
+
+RAG Systems & Vector Stores: ChromaDB
+
+Tools: Git, GitHub, Streamlit, Postman, Google Cloud
+
+--- Chunk #20 ---
+### Cybersecurity
+
+
+Domains: IoT Security, Network Security
+
+ Practices: Secure Coding, Applied Cryptography
+
+Tools: SDR (Software Defined Radio), protocol analyzers
+
+--- Chunk #21 ---
+## Publications
+
+--- Chunk #22 ---
+### 1. Enhancing IoT Security through Advanced Machine Learning Models for Anomaly Detection
+
+Rahat Bhatia, Sanmeet Kaur, Breanna Lang
+
+Accepted at ICICT 2025
+
+Abstract: The rapid proliferation of the Internet of Things (IoT) has brought unprecedented connectivity, transforming industries and daily life. However, this integration comes with critical cybersecurity challenges, exposing IoT networks to sophisticated threats like Distributed Denial-of-Service (DDoS) attacks and other malicious activities. This paper investigates IoT vulnerabilities by analyzing the CICIoT2023 dataset and employing advanced machine learning techniques, specifically Random Forest and XGBoost, to detect and mitigate anomalies in network traffic. Through rigorous preprocessing, feature selection, and model tuning, both algorithms demonstrated exceptional performance, achieving accuracy and F1 scores exceeding 99%. XGBoost outperformed Random Forest in key metrics, showcasing its scalability and precision for complex datasets, while Random Forest proved advantageous for resource-constrained environments due to its simplicity and interpretability. This research not only highlights the strengths of machine learning in IoT security but also provides actionable insights for real-time anomaly detection and adaptive defenses. Future work aims to enhance these models for real-world deployment, adaptive learning, and broader applicability across diverse IoT ecosystems, ensuring a secure and resilient interconnected landscape.
+
+--- Chunk #23 ---
+### 2. Development and Evaluation of a Smart Agricultural Chatbot
+
+Rahat Bhatia, Dr. Sanmeet Kaur
+
+Published in IEEE UEMCON 2024
+
+Abstract: This research presents the development and evaluation of a farmer focused chatbot that provides real-time assistance by leveraging data from various agricultural research institutions. Using natural language processing (NLP), similarity search, and Maximum Marginal Relevance (MMR), the chatbot delivers accurate and diverse responses. Evaluation metrics, including response accuracy, speed, user satisfaction, and query resolution, highlight its effectiveness. A case study with 50 farmers revealed significant improvements in decision-making and productivity, showcasing the chatbot’s potential to enhance agricultural practices through technology.
+
+--- Chunk #24 ---
+### 3. Too Far, Yet Too Close – Poetry Collection
+
+Rahat Bhatia | Published: 2023
+
+A personal poetry collection reflecting on themes of emotion, identity, and introspection.
+Available at https://www.amazon.com/Too-Far-Yet-Close/dp/B0CF64SGYG
+
+--- Chunk #25 ---
+## Awards and Grants
+
+--- Chunk #26 ---
+### 1. CSTEM Undergraduate Research Fund
+
+$1,100 for SmartBot development (Sept 2023)
+
+Travel and research fund for IEEE UEMCON 2024 presentation
+
+--- Chunk #27 ---
+### 2. Provost’s Travel Grant
+
+Sponsored travel to IEEE UEMCON 2024
+
+--- Chunk #28 ---
+### 3. Dean’s List
+
+Every quarter from Fall 2022 through Winter 2025
+
+--- Chunk #29 ---
+## Competition Awards:
+
+1st place – Gonzaga Hackathon 2024
+
+6th Nationally – NCAE Cyber Games
+
+4th – Spokane Cyber Cup (National Cyber League)
+
+--- Chunk #30 ---
+## Certifications and Trainings
+
+
+NVIDIA Certified TA – Fundamentals of Deep Learning
+
+LangChain: Chat with Your Data – DeepLearning.AI
+
+Machine Learning A-Z – Udemy
+
+T3-CIDERS Cyberinfrastructure Training – ODU
+
+Cyber Games, Hackathons, and ML/AI Bootcamps
+

@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+llama-index
+sentence-transformers
+torch
+transformers
+llama-index-llms-groq
+llama-index-embeddings-huggingface
